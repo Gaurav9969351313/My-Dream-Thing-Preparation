@@ -1,0 +1,7 @@
+14-04-2019
+	Regex Certification (60%)
+	Dot Net core certification (30%)
+	AWS certification (20% + 23%)
+	Angular Certification (56%)
+
+Grab All Countries Consulate Office addresses
