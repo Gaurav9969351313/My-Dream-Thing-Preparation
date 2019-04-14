@@ -2,3 +2,44 @@
 A Docker Container is a form of encapsulation to the application which holds all the dependencies which share the kernel with other 
 containers in the duration of running the isolated processes on the host operating system
 
+2) What is Dockerfile used for?
+A Dockerfile is a text document that contains all the commands a user could call on the command line to assemble an image. 
+Using docker build users can create an automated build that executes several command-line instructions in succession.
+
+3) Virtual Machines vs Docker Containers
+Need more resources	
+Less resources are used
+
+Process isolation is done at hardware level	
+Process Isolation is done at Operating System level
+
+Separate Operating System for each VM	
+Operating System resources can be shared within Docker
+
+VMs can be customized.	
+Custom container setup is easy
+
+Takes time to create Virtual Machine	
+Creation of docker is very quick
+
+Booting takes minutes	
+Booting is done within seconds
+
+4) What is the advantage of Docker over hypervisors?
+Docker is light weight and more efficient in terms of resource uses because it uses the host underlying kernel rather 4
+than creating its own hypervisor.
+
+5) How do I run multiple copies of a Compose file on the same host?
+Docker’s compose makes use of the Project name to create unique identifiers for all of the project’s containers 
+and resources. In order to run multiple copies of the same project, you will need to set a custom project name 
+using the –p command line option or you could use the COMPOSE_PROJECT_NAME environment variable for this purpose.
+
+6) Is there a way to identify the status of a Docker container?
+We can identify the status of a Docker container by running the command ‘docker ps –a’, which will in turn list down all
+the available docker containers with its corresponding statuses on the host. 
+From there we can easily identify the container of interest to check its status correspondingly.
+
+7) Difference between Docker Image and container?
+Docker container is the runtime instance of docker image.
+Docker Image doesnot have a state and its state never changes as it is just set of files whereas docker 
+container has its execution state.
