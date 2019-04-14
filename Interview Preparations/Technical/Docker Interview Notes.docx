@@ -1,0 +1,4 @@
+1) What is Docker Container?
+A Docker Container is a form of encapsulation to the application which holds all the dependencies which share the kernel with other 
+containers in the duration of running the isolated processes on the host operating system
+
