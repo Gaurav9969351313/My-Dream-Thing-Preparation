@@ -1,0 +1,19 @@
+1) What is Anonymous function?
+An Anonymous function is a special function which does not have any name. 
+We just define their parameters and define the code into the curly braces.
+delegate int func(int a, int b);
+static void Main(string[] args)
+{
+    func f1 = delegate(int a, int b)
+    {
+        return a + b;
+    };
+
+    Console.WriteLine(f1(1, 2));
+}
+
+Explain what is “LINQ to Objects”?
+When LINQ queries any IEnumerable(<T>) collection or IEnumerable directly without the use of an 
+intermediate LINQ provider or API such as LINQ to SQL or LINQ to XML is referred as LINQ to Objects.
+
+https://www.fullstack.cafe/
