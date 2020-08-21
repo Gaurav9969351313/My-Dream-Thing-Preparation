@@ -1,0 +1,7 @@
+Name: 			Gaurav Yashwant Talele.
+Email: 			garry.talele@gmail.com
+Passwoed: 		gauravtalele*123
+DOB			11-02-1994
+Skills			HTML, CSS, Angular, Angular Material, React, NodeJS,DotNet Core, LINQ, MongoDB, MS SQL, Redis, RabbitMQ, Apache Kafka, Docker, Docker Compose, 				Docker Swarm, AWS, IIS, Nginx etc.
+
+
