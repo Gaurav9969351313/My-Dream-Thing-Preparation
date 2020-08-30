@@ -1,0 +1,64 @@
+Smart, focused and Strategic professional with 3+ years of experience in UI development. Excellent team player and smart worker; Quick learner; Experienced in using modern frameworks, best practices, and technologies.
+
+
+Professional Summary:
+• Experience in working with Angular 2-7 modules, services, templates, directives, services and
+dependency injection to create a SPA.
+• Experience in Developing User Interface (UI) Rich Web Applications, and Web Service Applications
+using Front End/User Interface (UI) Technologies like JavaScript, Type Script, Angular 2-7, Node JS,
+Bootstrap, Media Queries, CSS Frameworks, Java.
+• Expertise in Angular 2+ framework and its ability to create simple and scalable code for SPA.
+• Worked extensively on Angular 2/ Typescript SPA domains.
+• Hands on Experience on Angular CLI (Command line Interface).
+• Good amount of work done on Reactive forms in Angular 2+ and their Validations.
+• Experience in using Chrome Developer Tools and Firebug for debugging and troubleshooting the
+code.
+• Good experience in automated build process by using Jenkins and Maven.
+• Extensively used the repositories like GIT and SVN.
+• Extensive experience working under Agile methodologies environment (scrum, Kanban).
+• Experience with various IDE’s such as Visual Studio Code, Web Storm, Sublime and Notepad++.
+
+===============================================================================================================
+
+👨‍💻 Development Skills:
+
+✅ Languages: C/C++, Core Java, Python, Javascript, Typescript
+✅ Frameworks: React, Flask, NodeJS, Scikit-Learn, Tensorflow
+✅ Tools: Github Actions, Git, Tableau, D3.js
+✅ Cloud: Amazon Web Services, Google Cloud Platform and Azure.
+✅ Development Sphere: Front-End Development, REST API Development, Data Modelling, Data Analysis, Cloud Development
+
+👨‍💻 Open-Source Contribution:
+
+✅ Project Administrator for Student Code-In
+✅ Mentor for PClub Summer of Code
+✅ Top-Performer in JIIT Month of Code (JMoC)
+
+👨‍💻 Non-Technical Skills:
+
+✅ Content Writing: Over 13 Million+ Views on Quora and working as Technical Content Writing Intern at AIOC
+✅ Content Reviewing: Working as a Technical Content Reviewer at GeeksforGeeks
+✅ Blogging: Writing on Technical Aspects of Development Projects on LinkedIn and Medium (@harshcasper)
+✅ Speaking: Organized and Spoke in over 7+ Sessions on Development and Technology
+
+👨‍💻 HackerRank ID: @ErbeusGriffin
+
+👨‍💻 Github: @harshcasper
+
+👨‍💻 Awards and Honours
+
+✅ First Prize in Sathyabama Coding Test organized by School of Computing.
+✅ Runner-Up in DSC's Hack4Good and Devfolio-DAIICT Hack Infinity 2.0 Hackathon.
+✅ Google Cloud Platform Champ.
+✅ Third Prize in Project Expo organized by Innovation Cell under MHRD.
+✅ Microsoft Student Partners
+
+👨‍💻 Notable Projects:
+
+✅ Algorithms Visualizer: Visualizes Dijkstra and A* Search Algorithm using Next and Typescript
+✅ NewsFresh: Machine Learning App to detect Fake News
+✅ Rotten Scripts: Collection of utility Automation Scripts
+✅ Malarial Detection: Deep-Learning powered App to detect Malaria
+✅ SEVEN: Chat Application created using NodeJS and SocketIO
+
+📧 Reach out to me here: erbeusgriffincasper@gmail.com 
