@@ -1,0 +1,116 @@
+GAURAV TALELE
+Full Stack Developer
+
+gauravtalele2021@gmail.com
++91 9969351313
+https://gaurav9969351313.gihub.io
+Mumbai
+
+Summary
+======
+A Full Stack Engineer having 4.8 years of experience. Currently serving for a national cause throgh Reserve Bank Of Information Technology Pvt Ltd. Having said that, i am posessing a passion for devlopeing scalable and enterprise ready applications using cutting edge technologies. My skill-based degree has allowed me to pursue novel technologies and ideas through applied learning, hands-on project exposures which fuels me with the essence and calibre of a budding computer avgeek.
+
+
+Experience
+======
+Full Stack Developer
+Reserve Bank Of Information Technology India Pvt. Ltd.
+07/2020 - Ongoing
+Nerul, Navi Mumbai
+A company setup By India's Central Bank ie: Reserve Bank Of India for all the Software Developement needs.
+ - Developed End to end Fintech Regulatory Sandbox Techstack includes Angular, Primeng, SpringBoot, Oracle, Jasper Reports, Docker, AWS.
+ - Played a key role and Indivisually contributed the developement of Admin Dashboard, Jasper MIS Reporting, User Recertification, File Handling, and Subscription based email processiong modules.
+ - Actively involved in API specification designs for nationwide project named Account Aggregator. 
+ - Worked on Sprig Boot based microservices architecture for APRD Project.
+ - Automated SAP HANA workflows using Apache Kafka Connect and Angular using Change Detection Capture Design Pattern.
+ - Praposed Data Lake over traditional BW for centralising data from RBI and related Entities to decrese time to insight and dont know questions. 
+ - Implmented a secure coding standerds suggested by National CISO team.
+ - Written a SOP to enhance security of java Spring Boot based applications which can take care of almost 33 points Given By National CISO team.
+
+Full Stack Engineer [NeoSoft Tech Ltd. CMM-V]
+Client: Mahindra and Mahindra Ltd
+10/2018 - 06/2020
+Kandivali, Mumbai
+Designed, architected and wrote the frontend + backend + deployment of our Chat Application and Qlik Sense Chatbot framework.
+ - Demonstrated experience in bringing critical applications from design to production and support.
+ - A fully configurable chatbot framework using admin portal.
+ - Used Rasa framework for Naturak language processing.
+ - Developed end to end Mahindra Chat App from scratch using angular 7, node js and mongodb. Envolved in required gathering to production deployment which was handled single handadly.
+ - Developed a whats app bot for vendor stock and invoicing related queries using twillo service.
+ - Modernized our legacy deployment workflow from on premises to docker containers
+ - Orchestrated machine learning model to serve 172 DOM CCTV cameras for covid mask detection using docker swarm and docker stack 
+
+Software Engineer
+63 Moons Technologies India Limited
+03/2017 - 10/2018
+Andheri, Mumbai
+India's No 1 Stock Exchange Trading Platform Provider
+ - Herewith I am working for an SMC Global Project. My main responsibility has been to develop reusable angular components
+ - Analytics Module was developed in which I am actively playing an important role as I have developed a dashboards for Equity, Commodity, Futures and Options, Currency, and Fundamentals as a single unit. Each dashboard consist of more than 15 widgets
+ - Developed overall health Indicator for scrip which gives an overall scrip information with fundamentals in an animated graphical format using animated tree chart of d3.
+ - indivisually Developed a test utility sandbox for ODIN 2.0 Rest API's. 
+
+
+SKILLS
+======
+ - HTML
+ - CSS
+ - Javascript
+ - Angular
+ - Material
+ - PrimeNg
+ - Spring Boot
+ - Core Java
+ - Microservices
+ - AXON
+ - NodeJs
+ - Oracle
+ - Redis
+ - Git
+ - RabbitMQ
+ - Apache Kafka
+ - NGINX
+ - WebLogic
+ - Docker
+ - AWS
+
+
+Achievements
+======
+Best Performer Of The Year 2019
+From Neosoft technologies Ltd received this award based of overall performance and problem solving skills.
+
+1St Runner up zAnalytics BTS Hacknovate 2018
+We have developed a real time stock orders analytics using Angular, NodeJS
+
+Gold Medal + Star of Month November
+Integration of Qlik Sense With Node JS API
+
+
+TRAININGS
+======
+Reactive Architecture: Building
+Scalable Systems (IBM CC)
+
+Reactive Architecture: Reactive Microservices (IBM CC)
+
+OWASP Top 10, Java Secure Coding Fundamentals (NullCon)
+
+
+Education
+======
+PG-DAC
+University of Mumbai
+01/nullundefined
+
+Bachelor Of Engineering
+University Of Mumbai
+01/nullundefined
+
+
+Strengths
+======
+Team Collaboration with Solution Architecturing & Delivery for Scalable Applications
+
+Process Optimization, Bug Fixing & Troubleshooting
+
