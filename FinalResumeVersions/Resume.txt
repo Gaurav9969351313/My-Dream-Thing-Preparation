@@ -1,14 +1,20 @@
+bayobac939@forfity.com
+https://app.enhancv.com/share/e6648fcb?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic
+
+
+
 GAURAV TALELE
 Full Stack Developer
 
 gauravtalele2021@gmail.com
 +91 9969351313
 https://gaurav9969351313.gihub.io
+https://gauravtalele.medium.com/
 Mumbai
 
 Summary
 ======
-A Full Stack Engineer having 4.8 years of experience. Currently serving for a national cause throgh Reserve Bank Of Information Technology Pvt Ltd. Having said that, i am posessing a passion for devlopeing scalable and enterprise ready applications using cutting edge technologies. My skill-based degree has allowed me to pursue novel technologies and ideas through applied learning, hands-on project exposures which fuels me with the essence and calibre of a budding computer avgeek.
+A Full Stack Engineer having 4.9 years of experience. Currently serving for a national cause throgh Reserve Bank Of Information Technology Pvt Ltd. Having said that, i am posessing a passion for devlopeing scalable and enterprise ready applications using cutting edge technologies. My skill-based degree has allowed me to pursue novel technologies and ideas through applied learning, hands-on project exposures which fuels me with the essence and calibre of a budding computer avgeek.
 
 
 Experience
@@ -17,9 +23,9 @@ Full Stack Developer
 Reserve Bank Of Information Technology India Pvt. Ltd.
 07/2020 - Ongoing
 Nerul, Navi Mumbai
-A company setup By India's Central Bank ie: Reserve Bank Of India for all the Software Developement needs.
+A company setup By India's Central Bank ie: Reserve Bank Of India for all its Software Developement needs.
  - Developed End to end Fintech Regulatory Sandbox Techstack includes Angular, Primeng, SpringBoot, Oracle, Jasper Reports, Docker, AWS.
- - Played a key role and Indivisually contributed the developement of Admin Dashboard, Jasper MIS Reporting, User Recertification, File Handling, and Subscription based email processiong modules.
+ - Played a key role and Indivisually contributed the developement of Admin Dashboard, Jasper MIS Reports, User Recertification, Secure File upload and Handling, and Subscription based email processiong modules.
  - Actively involved in API specification designs for nationwide project named Account Aggregator. 
  - Worked on Sprig Boot based microservices architecture for APRD Project.
  - Automated SAP HANA workflows using Apache Kafka Connect and Angular using Change Detection Capture Design Pattern.
@@ -53,26 +59,7 @@ India's No 1 Stock Exchange Trading Platform Provider
 
 SKILLS
 ======
- - HTML
- - CSS
- - Javascript
- - Angular
- - Material
- - PrimeNg
- - Spring Boot
- - Core Java
- - Microservices
- - AXON
- - NodeJs
- - Oracle
- - Redis
- - Git
- - RabbitMQ
- - Apache Kafka
- - NGINX
- - WebLogic
- - Docker
- - AWS
+HTML, CSS, Javascript, Angular, Material, PrimeNg, Spring Boot, Core Java, Microservices, Oracle, MongoDB, Git, RabbitMQ, Apache Kafka, NGINX, WebLogic, Docker, AWS
 
 
 Achievements

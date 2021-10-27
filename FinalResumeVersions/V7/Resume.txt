@@ -1,0 +1,156 @@
+GAURAV TALELE
+Full Stack Developer
+
+gauravtalele2021@gmail.com
++91 9969351313
+https://gauravtalele.medium.com
+Mumbai
+
+Summary
+======
+A Full Stack Engineer having 4.9 years of experience. Currently serving for a national cause through Reserve Bank Information Technology Pvt Ltd. Having said that, i am processing a passion for developing scalable and enterprise ready applications using cutting edge technologies. My skill based degree has allowed me to pursue novel technologies and ideas through applied learning, hands-on project exposures which fuels me with the essence and caliber of a budding computer geek.
+
+
+Experience
+======
+Reserve Bank Information Technology Pvt. Ltd.
+Full Stack Developer
+07/2020 - Ongoing
+Nerul, Navi Mumbai
+A company setup By India's Central Bank (Reserve Bank Of India) for all its Software Development needs.
+ -  Developed End to end Fintech Regulatory Sandbox Techstack includes Angular, Primeng, SpringBoot, Oracle, Jasper Reports, Docker, AWS.
+ - Played a key role and Individually contributed the development of Admin Dashboard, Jasper MIS Reports, User Recertification, Secure File upload and Handling, and Subscription based email processing modules.
+ - Implemented a secure coding standards suggested by National CISO team. additionally, Written a SOP to enhance security of java Spring Boot based applications.
+ - POC developed for SAP HANA workflows using Apache Kafka Connect and Angular using Change Detection Capture Design Pattern.
+
+Mahindra and Mahindra Ltd
+Full Stack Engineer [NeoSoft Tech Ltd. CMM-V]
+10/2018 - 06/2020
+Mumbai
+ - Designed, architected Chat Application and Qlik Sense Chatbot framework using Angular, Node JS, MongoDB, Docker,AWS etc.
+ - A fully configurable chatbot framework using admin portal.
+ - developed end to end Mahindra Chat App from scratch using angular 7, node JS and mongo DB. Involved in required gathering to production deployment which was handled single handedly.
+ - Developed a what's app bot for vendor stock and invoicing related queries using Twillo service.
+ - Modernized our legacy deployment workflow from on premises to docker containers
+
+63 Moons Technologies India Limited
+Software Engineer
+03/2017 - 10/2018
+Andheri, Mumbai
+India's No 1 Stock Exchange Trading Platform Provider
+ - Herewith, I am working for an SMC Global Project. My main responsibility has been to develop reusable angular components.
+ - Analytics Module was developed in which I am actively playing an important role as I have developed a dashboards for Equity, Commodity, Futures and Options, Currency, and Fundamentals as a single unit. Each dashboard consist of more than 15 widgets.
+ - Developed overall health Indicator for scrip which gives an overall scrip information with fundamentals in an animated graphical format using animated tree chart of d3.
+ - Individually Developed a test utility sandbox for ODIN 2.0 Rest API's.
+
+
+SKILLS
+======
+ - 
+HTML
+
+ - CSS
+ - JavaScript
+ - Angular
+ - Material
+ - PrimeNG
+ - Spring Boot
+ - Core Java
+ - Microservices
+ - Oracle
+ - MongoDB
+ - Git
+ -  RabbitMQ
+ - Apache Kafka
+ - Weblogic
+ - Nginx
+ - Docker
+ - AWS
+
+
+Achievements
+======
+Best Performer Of The Year 2019
+From Neosoft technologies Ltd received this award based of overall performance and problem solving skills.
+
+Gold Medal + Star of Month November 2019
+Integration of Qlik Sense With Node JS API
+
+1St Runner up zAnalytics BTS Hacknovate 2018
+We have developed a real time stock orders analytics using Angular, NodeJS
+
+
+Training / Courses
+======
+Reactive Architecture: Building
+Scalable Systems (IBM CC)
+
+Reactive Architecture: Reactive Microservices (IBM CC)
+
+OWASP Top 10, Java Secure Coding Fundamentals (NullCon)
+
+
+Education
+======
+PG-DAC (Diploma in advanced Computing)
+University of Mumbai
+01/nullundefined
+
+Bachelor Of Engineering
+University Of Mumbai
+01/nullundefined
+
+
+Strengths
+======
+Team Collaboration with Solution Architecturing & Delivery for Scalable Applications
+
+Process Optimization, Bug Fixing & Troubleshooting
+
+===========================================================
+
+
+
+<html>
+
+<head></head>
+
+<body>
+
+  <h4>Dear Hiring Manager,</h4>
+  <h6>I hope you’re doing well. <h6>
+
+    <div class="content">
+      I am writing to express my strong interest in being the next Full Stack Engineer at your organisation.
+      <br>
+      As an ambitious professional with experience in Angular, Angular Material, Spring Boot, Core Java, Microservices, Axon, Oracle, MongoDB, Jasper Reports,
+      Docker, Docker Compose, AWS. I believe that I would make an excellent addition to your team. I am currently working as a Full Stack Engineer in
+      Reserve Bank Of Information Technologies Pvt Ltd.
+      <br>
+      <br>
+      I have attached my CV hoping that you will consider me for the place in your organisation, should you need more details or references I can supply those at your convenience. Otherwise I would like to have an interview and talk more about being new employee for your esteemed Organisation. Please review.
+
+      <br>
+      <br>
+      Thank you so much for your time and consideration..:)
+      <br>
+
+      <p>Expected CTC: 12.00 LPA
+      <p>
+      <p>Notice Period: 60 days.</p>
+
+      <p>Also It would be great if you foreword me the detailed JD.</p>
+      <br>
+      <br>
+    </div>
+    
+    <div class="signature">
+
+      With Best Regards,<br>
+      Mr. Gaurav Y Talele. <br>
+      [M]: garry.talele@gmail.com<br>
+      [H]: +91 9969351313.<br>
+    </div>
+</body>
+
+</html>
