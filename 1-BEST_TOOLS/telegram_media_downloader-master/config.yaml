@@ -1,0 +1,20 @@
+api_hash: 8fe61f35b14fab2086e86434984ac767
+api_id: 27738645
+chat_id: exceltrade
+file_formats:
+  audio:
+  - all
+  document:
+  - all
+  video:
+  - all
+ids_to_retry:
+- 4514
+last_read_message_id: 2495
+media_types:
+- audio
+- photo
+- video
+- document
+- voice
+- video_note

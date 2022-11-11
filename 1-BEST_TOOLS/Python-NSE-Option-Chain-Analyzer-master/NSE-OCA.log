@@ -1,0 +1,39 @@
+[2022-10-19 12:00:40 - INFO ] ----------Logging Started----------
+[2022-10-19 12:00:41 - INFO ] Windows 10 .py version 5.4 
+[2022-10-19 13:06:08 - INFO ] None
+[2022-10-19 13:06:08 - INFO ] None
+[2022-10-19 13:06:08 - INFO ] HTTPSConnectionPool(host='www.nseindia.com', port=443): Read timed out. <class 'requests.exceptions.ConnectionError'> 4
+[2022-10-19 13:06:09 - INFO ] reset cookies
+[2022-10-19 13:31:17 - INFO ] None
+[2022-10-19 13:31:17 - INFO ] None
+[2022-10-19 13:31:17 - INFO ] HTTPSConnectionPool(host='www.nseindia.com', port=443): Read timed out. (read timeout=5) <class 'requests.exceptions.ReadTimeout'> 4
+[2022-10-19 13:31:23 - INFO ] <Response [200]>
+[2022-10-19 13:31:23 - INFO ] None
+[2022-10-19 13:31:23 - INFO ] HTTPSConnectionPool(host='www.nseindia.com', port=443): Read timed out. (read timeout=5) <class 'requests.exceptions.ReadTimeout'> 5
+[2022-10-19 13:42:18 - INFO ] ----------Quitting Program----------
+[2022-10-21 09:46:25 - INFO ] ----------Logging Started----------
+[2022-10-21 09:46:25 - INFO ] Windows 10 .py version 5.4 
+[2022-10-21 10:10:45 - INFO ] None
+[2022-10-21 10:10:45 - INFO ] None
+[2022-10-21 10:10:45 - INFO ] HTTPSConnectionPool(host='www.nseindia.com', port=443): Read timed out. (read timeout=5) <class 'requests.exceptions.ReadTimeout'> 4
+[2022-10-21 10:10:45 - INFO ] reset cookies
+[2022-10-21 12:09:11 - INFO ] reset cookies
+[2022-10-21 14:56:44 - INFO ] None
+[2022-10-21 14:56:45 - INFO ] None
+[2022-10-21 14:56:48 - INFO ] HTTPSConnectionPool(host='www.nseindia.com', port=443): Max retries exceeded with url: /api/option-chain-indices?symbol=NIFTY (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001B533806470>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')) <class 'requests.exceptions.ConnectionError'> 4
+[2022-10-21 14:57:22 - INFO ] reset cookies
+[2022-10-21 14:59:09 - INFO ] None
+[2022-10-21 14:59:10 - INFO ] None
+[2022-10-21 14:59:11 - INFO ] HTTPSConnectionPool(host='www.nseindia.com', port=443): Max retries exceeded with url: /api/option-chain-indices?symbol=NIFTY (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001B534728370>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')) <class 'requests.exceptions.ConnectionError'> 4
+[2022-10-21 14:59:18 - INFO ] reset cookies
+[2022-10-22 10:04:42 - INFO ] None
+[2022-10-22 10:04:42 - INFO ] None
+[2022-10-22 10:04:42 - INFO ] HTTPSConnectionPool(host='www.nseindia.com', port=443): Max retries exceeded with url: /api/option-chain-indices?symbol=NIFTY (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001B534729240>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')) <class 'requests.exceptions.ConnectionError'> 4
+[2022-10-22 10:04:42 - INFO ] None
+[2022-10-22 10:04:42 - INFO ] None
+[2022-10-22 10:04:42 - INFO ] HTTPSConnectionPool(host='www.nseindia.com', port=443): Max retries exceeded with url: /option-chain (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001B533801810>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')) <class 'requests.exceptions.ConnectionError'> 5
+[2022-10-22 10:05:48 - INFO ] None
+[2022-10-22 10:05:48 - INFO ] None
+[2022-10-22 10:05:48 - INFO ] HTTPSConnectionPool(host='www.nseindia.com', port=443): Read timed out. (read timeout=5) <class 'requests.exceptions.ReadTimeout'> 4
+[2022-10-22 10:05:48 - INFO ] reset cookies
+[2022-10-22 10:08:37 - INFO ] ----------Quitting Program----------

@@ -1,0 +1,9 @@
+.DS_Store
+*.pyc
+example.mbox.csv
+.blacklist
+.owners
+*.icns
+rules.py
+python3.8
+.env
