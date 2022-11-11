@@ -1,0 +1,14 @@
+========================================================================================================================
+https://www.youtube.com/watch?v=6RyCt2xWBcM&t=45s
+
+The pywintypes38.dll file is actually installed in the folder path:
+   C:\Users\tejal\AppData\Roaming\Python\Python310\site-packages\pywin32_system32
+
+I copied these files from here to this new path:
+    C:\Users\tejal\AppData\Roaming\Python\Python310\site-packages\win32\lib
+
+https://stackoverflow.com/questions/42482739/importerror-no-system-module-pywintypes-pywintypes34-dll/65539116#65539116
+========================================================================================================================
+
+https://smartapi.angelbroking.com/docs
+

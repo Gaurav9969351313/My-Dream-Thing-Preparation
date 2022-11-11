@@ -1,0 +1,44 @@
+i-0c80446a80774bd58
+
+https://docs.aws.amazon.com/solutions/latest/instance-scheduler-on-aws/scheduler-cli.html
+
+python setup.py install
+
+https://docs.aws.amazon.com/eventbridge/latest/userguide/eb-create-rule-schedule.html#eb-cron-expressions
+
+
+reports=[{"name":"F&O - Bhavcopy(csv)","type":"daily-reports","category":"derivatives","section":"equity","link":"https://archives.nseindia.com/content/historical/DERIVATIVES/2022/OCT/fo06OCT2022bhav.csv.zip"},{"name":"CD - Bhavcopy","type":"daily-reports","category":"derivatives","section":"currency","link":"https://archives.nseindia.com/archives/cd/bhav/CD_Bhavcopy061022.zip"},{"name":"COM - Bhavcopy file (.csv)","type":"daily-reports","category":"derivatives","section":"commodity","link":"https://archives.nseindia.com/archives/com/bhavcopy/com.zip"},{"name":"IRD - Bhavcopy","type":"daily-reports","category":"derivatives","section":"irf","link":"https://archives.nseindia.com/archives/ird/bhav/IRF_Bhavcopy061022.zip"},{"name":"F&O - Daily Settlement Prices","type":"daily-reports","category":"derivatives","section":"equity","link":"https://archives.nseindia.com/archives/nsccl/sett/FOSett_prce_06102022.csv"},{"name":"F&O - Security in ban period","type":"daily-reports","category":"derivatives","section":"equity","link":"https://archives.nseindia.com/archives/fo/sec_ban/fo_secban_07102022.csv"},{"name":"CD-Daily Settlement Prices","type":"daily-reports","category":"derivatives","section":"currency","link":"https://archives.nseindia.com/archives/cd/sett/CDSett_prce_06102022.csv"},{"name":"Haircut for Approved Securities (csv)","type":"daily-reports","category":"derivatives","section":"equity","link":"https://archives.nseindia.com/content/equities/APPSEC_COLLVAL_07102022.csv"},{"name":"Haircut for Mutual Funds (csv)","type":"daily-reports","category":"derivatives","section":"equity","link":"https://archives.nseindia.com/archives/fo/mf_haircut/MF_VAR_07102022.csv"}]
+
+
+equity_reports=[{"name":"CM - Bhavcopy(csv)","type":"daily-reports","category":"capital-market","section":"equities","link":"https://archives.nseindia.com/content/historical/EQUITIES/2022/OCT/cm06OCT2022bhav.csv.zip"},{"name":"CM - Market Activity Report","type":"daily-reports","category":"capital-market","section":"equities","link":"https://archives.nseindia.com/archives/equities/mkt/MA061022.csv"},{"name":"CM - Security-wise Delivery Positions","type":"daily-reports","category":"capital-market","section":"equities","link":"https://archives.nseindia.com/archives/equities/mto/MTO_06102022.DAT"},{"name":"CM - List of securities for auction","type":"daily-reports","category":"capital-market","section":"equities","link":"https://archives.nseindia.com/content/nsccl/AUB_2022187_06102022.csv"},{"name":"CM - Category-wise Turnover","type":"daily-reports","category":"capital-market","section":"equities","link":"https://archives.nseindia.com/archives/equities/cat/cat_turnover_041022.xls"},{"name":"CM - Price Band changes (for Next day)","type":"daily-reports","category":"capital-market","section":"equities","link":"https://archives.nseindia.com/content/equities/eq_band_changes_07102022.csv"},{"name":"NIFTY 50 Top 10 Holdings (csv)","type":"daily-reports","category":"capital-market","section":"equities","link":"https://archives.nseindia.com/content/indices/top10nifty50_061022.csv"},{"name":"CM - Daily Volatility","type":"daily-reports","category":"capital-market","section":"equities","link":"https://archives.nseindia.com/archives/nsccl/volt/CMVOLT_06102022.CSV"},{"name":"List of eligible securities in SLBS(csv)","type":"daily-reports","category":"capital-market","section":"equities","link":"https://archives.nseindia.comundefined"}]
+
+
+https://www.nseindia.com/api/liveEquity-derivatives?index=nse50_opt
+	https://www.nseindia.com/api/option-chain-equities?symbol=UPL
+
+https://www.nseindia.com/api/liveEquity-derivatives?index=stock_opt
+
+			<select aria-labelledby="live-equityLbl" class="no-border-radius">
+                                                    <option rel="derivative" value="top20_contracts" selected="selected">Top 20 Contracts</option>
+                                                    <option rel="derivative" value="stock_fut">Stock Futures</option>
+                                                    <option rel="derivative" value="stock_opt">Stock Options</option>
+                                                    <option rel="derivative" value="top20_spread_contracts">Top 20 Spread Contracts</option>
+                                                    <optgroup label="NSE INDICES">
+                                                        <option rel="derivative" value="nse50_fut">Nifty 50 Futures</option>
+                                                        <option rel="derivative" value="nse50_opt">Nifty 50 Options</option>
+                                                        <option rel="derivative" value="nifty_bank_fut">Nifty Bank Futures</option>
+                                                        <option rel="derivative" value="nifty_bank_opt">Nifty Bank Options</option>
+                                                        <option rel="derivative" value="finnifty_fut">Nifty Financial Futures</option>
+                                                        <option rel="derivative" value="finnifty_opt">Nifty Financial Options</option>
+                                                        <option rel="derivative" value="niftymidcap_fut">Nifty Midcap Select Futures</option>
+                                                        <option rel="derivative" value="niftymidcap_opt">Nifty Midcap Select Options</option>
+                                                        <!--<option rel="derivative" value="nifty_it_fut">Nifty IT Futures</option>
+                                                        <option rel="derivative" value="nifty_it_opt">Nifty IT Options</option>-->
+                                                    </optgroup>
+                                                </select>
+
+
+=IMPORTDATA("http://archives.nseindia.com/content/nsccl/fao_participant_oi_"&B1&".csv")
+
+
+https://archives.nseindia.com/content/nsccl/fao_participant_oi_06102022.csv

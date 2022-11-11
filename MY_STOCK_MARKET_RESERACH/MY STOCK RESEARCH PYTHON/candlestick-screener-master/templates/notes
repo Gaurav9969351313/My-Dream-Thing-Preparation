@@ -1,0 +1,3 @@
+<td colspan="3">
+    <img src="https://finviz.com/chart.ashx?t={{ stock }}&ty=c&ta=1&p=d&s=l" />
+</td>
