@@ -1,0 +1,5 @@
+api_key="rikcGWOx"
+secret_key="ef664992-0e06-497a-85f9-f0c468c1cb18"
+user_id="G92658"
+password="qwerty123"
+totp_token="DOI7PP4ZISYMTWDVF6JKATRNOM"
